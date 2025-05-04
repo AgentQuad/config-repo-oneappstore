@@ -3,7 +3,7 @@ author: "AgentQuad"      # Author name
 version: "1.0"                # Semantic Versioning (MAJOR.MINOR.PATCH)
 description: "A Cool App" # Max 100 characters
 logo_url: "https://your-domain.com/path/to/logo.png" # HTTPS link to logo (PNG/JPG, max 512x512)
-download_url: "https://github.com/infobyone/ONE-CHAT/releases/tag/v1.0.0" # HTTPS link to file
+download_url: "https://objects.githubusercontent.com/github-production-release-asset-2e65be/792704185/91b03190-79f5-404f-b06e-10a717c83e40?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250504%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250504T065045Z&X-Amz-Expires=300&X-Amz-Signature=0170147845fbe2212fdb7e58373a46f8443731dfe5df91e6bb9e1edac05a1958&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DONE-CHAT.apk&response-content-type=application%2Fvnd.android.package-archive" # HTTPS link to file
 takedown: false                 # Set to true to hide listing
 
 # Optional
